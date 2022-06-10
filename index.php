@@ -20,6 +20,9 @@
 </div>
 
 
-
+ <img class= "logo2" src="media/wordart.png">
+</a>
+<img class= "logo3" src="media/namewordart.png">
+</a>
 </body>
 </html>
