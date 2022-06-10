@@ -13,12 +13,13 @@
  <img class= "logo" src="media/benderal.png">
 </a>
 
+<div class="card">
 <div class="card-main">
 </div>
 
 <div class="card-side">
 </div>
-
+</div>
 
  <img class= "logo2" src="media/wordart.png">
 </a>
