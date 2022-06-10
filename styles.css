@@ -17,11 +17,25 @@ width: 50%
 .card-main{
     background: #FDDA00;
     height: 500px;
+    width: 65%;
     border-color:#FC7500;
     border-style: solid;
     border-width: 10px;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 200px;
     margin-bottom: 50px;
+    display: inline-block;
+}
+
+.card-side{
+    float: left;
+    height: 500px;
+    width: 80px;
+    margin-left: 20px;
+    background: #FDDA00;
+    border-color:#FC7500;
+    border-style: solid;
+    border-width: 10px;
+
 }
 

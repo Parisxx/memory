@@ -16,6 +16,10 @@
 <div class="card-main">
 </div>
 
+<div class="card-side">
+</div>
+
+
 
 </body>
 </html>
