@@ -11,5 +11,11 @@
 <a href="index.php">
  <img class= "logo" src="media/benderal©wordart.png" />
 </a>
+ 
+
+<div class="card-main">
+</div>
+
+
 </body>
 </html>
