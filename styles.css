@@ -4,13 +4,15 @@ body {
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-.logo{
 
-height: 100px;
-width: 100px;
+.logo{
+height: 250px;
+width: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
 }
-=======
 
 .card-main{
     background: #FDDA00;
@@ -20,6 +22,6 @@ width: 100px;
     border-width: 10px;
     margin-left: 200px;
     margin-right: 200px;
+    margin-bottom: 50px;
 }
 
->>>>>>> 021c338ce715c0145c53c0791bffeaa9d429751f

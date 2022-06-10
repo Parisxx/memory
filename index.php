@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
 <a href="index.php">
- <img class= "logo" src="media/benderal©wordart.png" />
+ <img class= "logo" src="media/benderal.png">
 </a>
- 
 
 <div class="card-main">
 </div>
