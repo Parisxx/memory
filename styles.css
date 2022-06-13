@@ -5,62 +5,60 @@ body {
     padding: 0;
 }
 
-.logo{
-height: 200px;
-width: 350px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
-
-.card{
+.card {
     display: flex;
 }
 
-.logo2{
+.logo {
+    height: 200px;
+    width: 350px;
+    display: block;
+    margin-left: 700px;
+    margin-right: auto;
+}
+
+.logo2 {
     height: 200px;
     width: 350px;
     display: block;
     margin-left: 200px;
     margin-right: auto;
-    margin-top:  -85px;
-    }
+    margin-top: -85px;
+}
 
-    .logo3{
-        height: 200px;
-        width: 350px;
-        display: block;
-        margin-left: auto;
-        margin-right: 320px;
-        margin-top:  -180px;
-        }
+.logo3 {
+    height: 200px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: 320px;
+    margin-top: -180px;
+}
 
-.card-main{
+.card-main {
     background: #FDDA00;
     height: 500px;
     width: auto;
     flex: 1;
 
-    border-color:#FC7500;
+    border-color: #FC7500;
     border-style: solid;
     border-width: 10px;
 
-    margin-left: 20px; 
+    margin-left: 20px;
     margin-right: 150px;
-    margin-bottom: 50px; 
+    margin-bottom: 50px;
 
 }
 
-.card-side{
+.card-side {
     flex: 6;
-
     height: 500px;
     width: 80px;
-
+    margin-right: 100px;
     background: #FDDA00;
-    border-color:#FC7500;
+    border-color: #FC7500;
     border-style: solid;
     border-width: 10px;
 
 }
-
