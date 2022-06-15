@@ -22,12 +22,12 @@
         </div>
 
         <div class="card-side">
-        <img class="cards_blank" src="media/blank_150.png">
-        <img class="cards_blank" src="media/blank_150.png">
-        <img class="cards_blank" src="media/blank_150.png">
-        <img class="cards_blank" src="media/blank_150.png">
-        <img class="cards_blank" src="media/blank_150.png">
-        <img class="cards_blank" src="media/blank_150.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
         
         </div>
     </div>
