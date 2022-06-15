@@ -67,6 +67,12 @@ body {
 }
 
 .cards_blank{
+    background-image: url("blank_150.png");
     height: 100px;
     width: 80px;
+}
+
+.cards_blank:hover{
+    background-image: url("vigo_small.png");
+
 }
