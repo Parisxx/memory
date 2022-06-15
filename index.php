@@ -11,7 +11,7 @@
     <link rel="icon" href="media/icon.png" type="image/gif" sizes="16x16">
 </head>
 
-<body>
+<body> 
 
     <img class="logo" src="media/benderal.png">
 
