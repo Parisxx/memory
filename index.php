@@ -19,10 +19,10 @@
     <div class="card">
         
         <div class="card-main">
-        <img class="cards_blank" src="media/blank.png">
         </div>
 
         <div class="card-side">
+        <img class="cards_blank" src="media/blank2.png">
         </div>
     </div>
 
