@@ -22,7 +22,7 @@
         </div>
 
         <div class="card-side">
-        <img class="cards_blank" src="media/blank2.png">
+        <img class="cards_blank" src="media/blank5.png">
         </div>
     </div>
 
