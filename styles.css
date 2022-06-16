@@ -72,10 +72,15 @@ body {
     width: 80px;
 }
 
-.cards_blank:hover{
+.cards_blank:active{
     background-image: url("media/vigo_small.png");
     transition-timing-function: ease-in;
     transform: rotateY(180deg);
     transition: 0.5s;
 
 }
+
+
+
+
+
