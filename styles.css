@@ -75,7 +75,7 @@ body {
 
 }
 
-.cards_blank:active{
+.active{
     background-image: url("media/vigo_small.png");
     transition-timing-function: ease-in;
     transform: rotateY(180deg);
