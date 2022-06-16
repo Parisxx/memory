@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>vista.benderniet | Mémoire</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="app.js" charset="utf-8"></script>
+    <script src="javascript.js" charset="utf-8"></script>
     <link rel="icon" href="media/icon.png" type="image/gif" sizes="16x16">
 </head>
-
+ 
 <body> 
 
     <img class="logo" src="media/benderal.png">
@@ -21,7 +21,13 @@
         </div>
 
         <div class="card-side">
-        <img class="cards_blank" src="media/blank_150.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        
         </div>
     </div>
 
