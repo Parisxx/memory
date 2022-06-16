@@ -28,6 +28,20 @@
         <img class="cards_blank" src="media/blank.png">
         <img class="cards_blank" src="media/blank.png">
         <img class="cards_blank" src="media/blank.png">
+
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
+        <img class="cards_blank" src="media/blank.png">
         
         </div>
     </div>

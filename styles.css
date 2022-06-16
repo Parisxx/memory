@@ -40,7 +40,7 @@ body {
 
 .card-main {
     background: #FDDA00;
-    height: 500px;
+    height: 520px;
     width: auto;
     flex: 1;
 
@@ -56,7 +56,7 @@ body {
 
 .card-side {
     flex: 6;
-    height: 500px;
+    height: 520px;
     width: 80px;
     margin-right: 100px;
     background: #FDDA00;
