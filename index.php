@@ -32,17 +32,7 @@
         </div>
     </div>
 
-    <section class="memory-game">
-            <div class="memory-card">
-                <img class="front-face" src="media/blank_150.png">
-                <img class="back-face" src="media/vigo_small.png">
-            </div>
 
-            <div class="memory-card">
-                <img class="front-face" src="media/blank_150.png">
-                <img class="back-face" src="media/vigo_small.png">
-            </div>
-        </section>
 
 
     <img class="logo2" src="media/wordart.png">

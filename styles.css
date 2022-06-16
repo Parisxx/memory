@@ -68,8 +68,11 @@ body {
 
 .cards_blank{
     background-image: url("media/blank_200.png");
-    height: 100px;
-    width: 80px;
+    height: 150px;
+    width: 150px;
+    margin: 9px;
+
+
 }
 
 .cards_blank:active{
@@ -79,6 +82,9 @@ body {
     transition: 0.5s;
 
 }
+
+
+
 
 
 
