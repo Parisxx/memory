@@ -10,7 +10,7 @@
     <script src="javascript.js" charset="utf-8"></script>
     <link rel="icon" href="media/icon.png" type="image/gif" sizes="16x16">
 </head>
-
+ 
 <body> 
 
     <img class="logo" src="media/benderal.png">
