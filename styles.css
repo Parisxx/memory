@@ -1,8 +1,16 @@
 body {
     background: rgb(45, 45, 45);
-    /* font-family: "Quicksand", sans-serif; */
     margin: 0;
     padding: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #FC7500;
+    border-radius: 20px;
 }
 
 .card {
@@ -66,7 +74,7 @@ body {
 
 }
 
-.cards_blank{
+.cards_blank {
     background-image: url("media/back_200.png");
     height: 150px;
     width: 150px;
@@ -75,18 +83,10 @@ body {
 
 }
 
-.active{
+.active {
     background-image: url("media/vigo_150.png");
     transition-timing-function: ease-in;
     transform: rotateY(180deg);
     transition: 0.5s;
 
 }
-
-
-
-
-
-
-
-
