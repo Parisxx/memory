@@ -54,9 +54,16 @@ for(let i = 0; i < cards.length; i++) {
             if(activeClasses[0].style.backgroundImage == activeClasses[1].style.backgroundImage) {
                 // puntentelling hier doen
 
-
                 activeClasses[0].classList.remove('active');
                 activeClasses[1].classList.remove('active');
+
+                
+                var img = document.createElement("img");
+                img.src = "media/paris_cirkel.png";
+            
+                var div = document.getElementById("cirkel");
+                div.appendChild(img);
+                // block.setAttribute("style", "margin-left:50%");
             }
         }
         
