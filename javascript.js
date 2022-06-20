@@ -3,24 +3,25 @@ let cards = document.getElementsByClassName('cards_blank');
 // game state to check how many cards we have selected
 let state = 0;
 let images = [
+    'yorrick_150.png',
     'nando_150.png',
     'jerbo_150.png',
     'luc_150.png',
     'merlijn_150.png',
-    'paris_150.png',
+    'dennis_150.png',
+    'jerbo_150.png',
     'robin_150.png',
     'vigo_150.png',
-    'yorrick_150.png',
-    'dennis_150.png',
-    'nando_150.png',
-    'jerbo_150.png',
     'luc_150.png',
+    'yorrick_150.png',
+    'nando_150.png',
+    'dennis_150.png',
     'merlijn_150.png',
     'paris_150.png',
     'robin_150.png',
     'vigo_150.png',
-    'yorrick_150.png',
-    'dennis_150.png',
+    'paris_150.png',
+    
 ]
 
 for(let i = 0; i < cards.length; i++) {
