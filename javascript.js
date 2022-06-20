@@ -24,6 +24,17 @@ let images = [
     
 ]
 
+let cirkel = [
+    'paris_cirkel.png',
+    'robin_cirkel.png',
+    'yorrick_cirkel.png',
+    'vigo_cirkel.png',
+    'jerbo_cirkel.png',
+    'luc_cirkel.png',
+    'merlijn_cirkel.png',
+    'dennis_cirkel.png',   
+]
+
 for(let i = 0; i < cards.length; i++) {
 
     let card = cards[i];
@@ -59,7 +70,7 @@ for(let i = 0; i < cards.length; i++) {
 
                 
                 var img = document.createElement("img");
-                img.src = "media/paris_cirkel.png";
+                img.src = "media/" + cirkel[i]+"";
             
                 var div = document.getElementById("cirkel");
                 div.appendChild(img);
