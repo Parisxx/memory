@@ -31,32 +31,3 @@ for(let i = 0; i < cards.length; i++) {
         
     });
 }
-
-// for(let i = 0; i < cards.length; i++) {
-
-//     let card = cards[i];
-
-//     card.addEventListener('click', () => {
-        
-        
-//         // if state is 2 then the cards should be checked
-//         if(state == 2) {
-
-//             // check if cards match
-
-//             //   if else class match 
-           
-//             // if they dont match flip them.
-
-//             $('.active2').removeClass('active2');
-
-//             state = 0;
-//         } else {
-//             card.classList.toggle('active2');
-//             state++;
-//         } 
-        
-//        console.log(state)
-        
-//     });
-// }
