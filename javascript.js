@@ -25,7 +25,7 @@ for(let i = 0; i < cards.length; i++) {
         } else {
             card.classList.toggle('active');
             state++;
-        }
+        } 
         
        console.log(state)
         
