@@ -1,16 +1,8 @@
 body {
     background: rgb(45, 45, 45);
+    /* font-family: "Quicksand", sans-serif; */
     margin: 0;
     padding: 0;
-}
-
-body::-webkit-scrollbar {
-    width: 12px;
-}
-
-body::-webkit-scrollbar-thumb {
-    background-color: #FC7500;
-    border-radius: 20px;
 }
 
 .card {
@@ -48,7 +40,7 @@ body::-webkit-scrollbar-thumb {
 
 .card-main {
     background: #FDDA00;
-    height: 520px;
+    height: 500px;
     width: auto;
     flex: 1;
 
@@ -64,7 +56,7 @@ body::-webkit-scrollbar-thumb {
 
 .card-side {
     flex: 6;
-    height: 520px;
+    height: 500px;
     width: 80px;
     margin-right: 100px;
     background: #FDDA00;
@@ -74,19 +66,13 @@ body::-webkit-scrollbar-thumb {
 
 }
 
-.cards_blank {
-    background-image: url("media/back_200.png");
-    height: 150px;
-    width: 150px;
-    margin: 9px;
-
-
+.cards_blank{
+    background-image: url("blank_150.png");
+    height: 100px;
+    width: 80px;
 }
 
-.active {
-    background-image: url("media/robin_150.png");
-    transition-timing-function: ease-in;
-    transform: rotateY(180deg);
-    transition: 0.5s;
+.cards_blank:hover{
+    background-image: url("vigo_small.png");
 
 }
