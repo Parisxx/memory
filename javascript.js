@@ -24,17 +24,7 @@ let images = [,
     
 ]
 
-// let img = [
-//     'yorrick_cirkel.png',
-//     'nando_cirkel.png',
-//     'jerbo_cirkel.png',
-//     'luc_cirkel.png',
-//     'merlijn_cirkel.png',
-//     'dennis_cirkel.png',
-//     'robin_cirkel.png',
-//     'vigo_cirkel.png',
-//     'paris_cirkel.png',
-// ]
+
 
 for(let i = 0; i < cards.length; i++) {
 
@@ -71,6 +61,7 @@ for(let i = 0; i < cards.length; i++) {
 
                 
                 // var img = document.createElement("img");
+<<<<<<< HEAD
                 // img.src = "media/paris_cirkel.png";
 
             
@@ -78,6 +69,13 @@ for(let i = 0; i < cards.length; i++) {
             //     div.appendChild(img);
             //     block.setAttribute("style", "text-align:center");
             // }
+=======
+                // img.src = "media/paris_cirkel.png";            
+                // var div = document.getElementById("x");
+                // div.appendChild(img);
+                // block.setAttribute("style", "text-align:center");
+            }
+>>>>>>> 87763df61dcf7eaf83c446d95dab557fee38b2dc
         }
         
     });
