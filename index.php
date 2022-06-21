@@ -7,8 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>vista.benderniet | Memoire</title>
     <link rel="stylesheet" href="styles.css">
-
     <link rel="icon" href="media/icon.png" type="image/gif" sizes="16x16">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 </head>
 
 <body>
@@ -19,6 +20,7 @@
     <div class="card">
 
         <div class="card-main">
+        <p id="points"></p>
         </div>
 
         <div class="card-side">
