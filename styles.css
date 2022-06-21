@@ -1,8 +1,16 @@
 body {
     background: rgb(45, 45, 45);
-    /* font-family: "Quicksand", sans-serif; */
     margin: 0;
     padding: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #FC7500;
+    border-radius: 20px;
 }
 
 .card {
@@ -17,7 +25,6 @@ body {
     margin-right: auto;
     transform: rotate(13deg);
 }
-
 .logo2 {
     height: 200px;
     width: 350px;
@@ -27,7 +34,6 @@ body {
     margin-top: -95px;
     transform: rotate(13deg);
 }
-
 .logo3 {
     height: 200px;
     width: 350px;
@@ -40,23 +46,20 @@ body {
 
 .card-main {
     background: #FDDA00;
-    height: 500px;
+    height: 520px;
     width: auto;
     flex: 1;
-
     border-color: #FC7500;
     border-style: solid;
     border-width: 10px;
-
     margin-left: 20px;
     margin-right: 150px;
     margin-bottom: 50px;
-
 }
 
 .card-side {
     flex: 6;
-    height: 500px;
+    height: 520px;
     width: 80px;
     margin-right: 100px;
     background: #FDDA00;
@@ -66,13 +69,19 @@ body {
 
 }
 
-.cards_blank{
-    background-image: url("blank_150.png");
-    height: 100px;
-    width: 80px;
+.cards_blank {
+    background-image: url("media/back_200.png");
+    height: 150px;
+    width: 150px;
+    margin: 9px;
+
+
 }
 
-.cards_blank:hover{
-    background-image: url("vigo_small.png");
+.active {
+    background-image: url("media/robin_150.png");
+    transition-timing-function: ease-in;
+    transform: rotateY(180deg);
+    transition: 0.5s;
 
 }
