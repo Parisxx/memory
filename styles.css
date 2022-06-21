@@ -79,7 +79,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .active {
-    background-image: url("media/robin_150.png");
+    background-image: url("media/blank.png");
     transition-timing-function: ease-in;
     transform: rotateY(180deg);
     transition: 0.5s;
