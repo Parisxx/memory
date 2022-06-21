@@ -60,10 +60,10 @@ for(let i = 0; i < cards.length; i++) {
                 activeClasses[1].classList.remove('active');
 
                 
-                // var img = document.createElement("img");
-                // img.src = "media/paris_cirkel.png";            
-                // var div = document.getElementById("x");
-                // div.appendChild(img);
+                var img = document.createElement("img");
+                img.src = "./media/paris_cirkel.png";            
+                var div = document.getElementById("x");
+                div.appendChild(img);
                 // block.setAttribute("style", "text-align:center");
             }
         }
