@@ -7,8 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>vista.benderniet | Mémoire</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="javascript.js"></script>
-
+    
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
     <link rel="icon" href="media/icon.png" type="image/gif" sizes="16x16">
