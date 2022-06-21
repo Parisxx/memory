@@ -57,8 +57,17 @@ for(let i = 0; i < cards.length; i++) {
 
                 activeClasses[0].classList.remove('active');
                 activeClasses[1].classList.remove('active');
+
+
+                var img = document.createElement("img");
+                img.src = "media/cirkel.png";
+                var div = document.getElementById("points");
+                div.appendChild(img); 
+                
+
             }
         }
+
         
     });
 }
