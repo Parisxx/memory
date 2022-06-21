@@ -2,7 +2,7 @@ let cards = document.getElementsByClassName('cards_blank');
 
 // game state to check how many cards we have selected
 let state = 0;
-let images = [
+let images = [,
     'yorrick_150.png',
     'nando_150.png',
     'jerbo_150.png',
