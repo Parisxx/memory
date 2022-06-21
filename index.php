@@ -8,6 +8,8 @@
     <title>vista.benderniet | Mémoire</title>
     <link rel="stylesheet" href="styles.css">
 
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
     <link rel="icon" href="media/icon.png" type="image/gif" sizes="16x16">
 </head>
 
@@ -17,7 +19,9 @@
 
 
     <div class="card">
-        
+
+        <div class="card-main">
+        <!-- <div id="x"></div> -->
         </div>
 
         <div class="card-side">

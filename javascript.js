@@ -2,7 +2,7 @@ let cards = document.getElementsByClassName('cards_blank');
 
 // game state to check how many cards we have selected
 let state = 0;
-let images = [
+let images = [,
     'yorrick_150.png',
     'nando_150.png',
     'jerbo_150.png',
@@ -23,6 +23,8 @@ let images = [
     'paris_150.png',
     
 ]
+
+
 
 for(let i = 0; i < cards.length; i++) {
 
@@ -54,9 +56,15 @@ for(let i = 0; i < cards.length; i++) {
             if(activeClasses[0].style.backgroundImage == activeClasses[1].style.backgroundImage) {
                 // puntentelling hier doen
 
-
                 activeClasses[0].classList.remove('active');
                 activeClasses[1].classList.remove('active');
+
+                
+                // var img = document.createElement("img");
+                // img.src = "media/paris_cirkel.png";            
+                // var div = document.getElementById("x");
+                // div.appendChild(img);
+                // block.setAttribute("style", "text-align:center");
             }
         }
         
