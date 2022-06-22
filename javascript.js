@@ -60,7 +60,7 @@ for(let i = 0; i < cards.length; i++) {
 
 
                 var img = document.createElement("img");
-                img.src = "media/cirkel.png";
+                img.src = "media/cirkel_small.png";
                 var div = document.getElementById("points");
                 div.appendChild(img); 
                 
